@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PoolManager_ArrowBow
+  - PoolManager_ArrowCrossbow
+  - Level_Manager
+  - Audio_Manager
+  - Ui_Manager
+  - ButtonArmySample
+  - Joystick_Parent
+  - Joystick
+  - PoolManager_BulletPistol
+  - PoolManager_BulletCannon
+  - FxTemporaire
+  - Particles_Manager
+  - AudioBattleManager
+  - Shield
+  - PoolManager_BulletCatapult
+  - PoolManager_SpearBallista
+  - PoolManager_SpearHorseMan
+  - CameraTouch
+  - PoolManager_BulletMage1
+  - BotRagdoll_Player
+  - BotRagdoll_Enemy
+  - CrossPoolManager
+  - Barrier
+  - PoolManager_ArrowSentinelBlue
+  - PoolManager_ArrowSentinelRed
+  - WeaponMenu
+  - PoolManager_SpearBallistaRed
+  - PoolManager_SpearBallistaBlue
+  - PoolManager_Shuriken
+  - PlayerPrefs_Players
+  - PoolManager_FireballRed
+  - PoolManager_FireballBlue
+  - PoolManager_Hwacha
+  - PackagesManager
+  - PoolManager_Javellin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bot
+  - MenuObjects
+  - Weapon
+  - Weapon2
+  - Ground
+  - Obstacles
+  - Shield
+  - WeaponShield
+  - GroundArmy
+  - BotRagdoll
+  - BotRagdoll_Walkable
+  - BulletGround
+  - Bot2
+  - BulletGround2
+  - Barrier
+  - DetectBot
+  - DetectBot2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

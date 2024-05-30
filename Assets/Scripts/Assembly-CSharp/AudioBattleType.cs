@@ -1,0 +1,17 @@
+public enum AudioBattleType
+{
+	NOTHING = 0,
+	SWORD = 1,
+	ARROW = 2,
+	CANNON = 3,
+	CATAPULT = 4,
+	MUSKET = 5,
+	GIANT = 6,
+	GENERIC = 7,
+	BALLISTA = 8,
+	EXPLOSION = 9,
+	MACHINE_GUN = 10,
+	FIRE_BALL = 11,
+	FIRE_EXPLOSION = 12,
+	HWACHA = 13
+}
